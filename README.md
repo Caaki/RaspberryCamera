@@ -67,15 +67,3 @@ pyaudio for audio recording.
 picamera2 for video recording.
 gpiozero for GPIO control.
 ffmpeg for video and audio merging.
-
-
-
-### Key Changes:
-1. **Headings and subheadings**: Improved sectioning for clarity.
-2. **Code Blocks**: Clear installation and setup instructions.
-3. **How It Works**: Step-by-step description with bullet points for each stage.
-4. **Troubleshooting**: Added a section for common issues and solutions.
-5. **License & Acknowledgments**: Added sections for licensing and credits (you can add a license if you plan to share it).
-
-This markdown format will display well on GitHub, providing a clean and professional look for your project.
-
